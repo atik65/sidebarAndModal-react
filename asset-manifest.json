@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sidebarAndModal-react/static/css/main.4e58bdb3.chunk.css",
+    "main.js": "/sidebarAndModal-react/static/js/main.b2fc0258.chunk.js",
+    "main.js.map": "/sidebarAndModal-react/static/js/main.b2fc0258.chunk.js.map",
+    "runtime-main.js": "/sidebarAndModal-react/static/js/runtime-main.b67223d2.js",
+    "runtime-main.js.map": "/sidebarAndModal-react/static/js/runtime-main.b67223d2.js.map",
+    "static/js/2.521a1387.chunk.js": "/sidebarAndModal-react/static/js/2.521a1387.chunk.js",
+    "static/js/2.521a1387.chunk.js.map": "/sidebarAndModal-react/static/js/2.521a1387.chunk.js.map",
+    "static/js/3.6514cf7d.chunk.js": "/sidebarAndModal-react/static/js/3.6514cf7d.chunk.js",
+    "static/js/3.6514cf7d.chunk.js.map": "/sidebarAndModal-react/static/js/3.6514cf7d.chunk.js.map",
+    "index.html": "/sidebarAndModal-react/index.html",
+    "static/css/main.4e58bdb3.chunk.css.map": "/sidebarAndModal-react/static/css/main.4e58bdb3.chunk.css.map",
+    "static/js/2.521a1387.chunk.js.LICENSE.txt": "/sidebarAndModal-react/static/js/2.521a1387.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b67223d2.js",
+    "static/js/2.521a1387.chunk.js",
+    "static/css/main.4e58bdb3.chunk.css",
+    "static/js/main.b2fc0258.chunk.js"
+  ]
+}
